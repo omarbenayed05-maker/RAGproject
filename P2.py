@@ -74,9 +74,9 @@ Question: {question}"""
 PAGE = """
 <!DOCTYPE html>
 <html>
-<head><title>Cat Facts RAG</title></head>
+<head><title>Coffee shop RAG</title></head>
 <body>
-    <h1>Ask about cats</h1>
+    <h1>Ask about coffee shop</h1>
     <form method="POST">
         <input type="text" name="question" style="width:300px" placeholder="Ask a question...">
         <button type="submit">Ask</button>
